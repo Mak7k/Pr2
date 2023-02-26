@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fast Cooking</string>
+    <string name="what_cook">Приложение для готовки</string>
+    <string name="enter_text">Введите название блюда</string>
+    <string name="Search_button">Поиск</string>
+    <string name="Apple_cake">Яблочный пирог</string>
+    <string name="Ingridiens">Выбор ингридиентов</string>
+    <string name="Muke">Мука</string>
+    <string name="Water">Вода</string>
+    <string name="main_text">Что приготовить?</string>
+</resources>
