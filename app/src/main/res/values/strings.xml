@@ -8,4 +8,6 @@
     <string name="Muke">Мука</string>
     <string name="Water">Вода</string>
     <string name="main_text">Что приготовить?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
