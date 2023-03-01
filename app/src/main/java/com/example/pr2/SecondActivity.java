@@ -29,9 +29,13 @@ public class SecondActivity extends AppCompatActivity {
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                boolean a = chbx1.isChecked();
+                boolean b = chbx2.isChecked();
+
                 Intent data = new Intent();
-                data.putExtra("start_1", ch1);
-                data.putExtra("start_2", ch2);
+                data.putExtra("start_1", a);
+                data.putExtra("start_2", b);
                 setResult(RESULT_OK, data);
                 finish();
             }

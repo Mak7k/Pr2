@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, SecondActivity.class);
                 intent.putExtra("check1", ch1);
                 intent.putExtra("check2", ch2);
+
                 mStartForResult.launch(intent);
             }
         });
